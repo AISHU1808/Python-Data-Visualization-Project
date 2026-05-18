@@ -8,3 +8,4 @@ A collection of data visualization plots using Matplotlib and NumPy
 <img width="640" height="480" alt="pie_chart" src="https://github.com/user-attachments/assets/8a456696-9dc7-40d3-8355-228a8a21e0b2" />
 
 <img width="640" height="480" alt="line_chart" src="https://github.com/user-attachments/assets/fc3426f0-beea-490a-898b-e74c91c2fcc6" />
+<img width="640" height="480" alt="chart_Image" src="https://github.com/user-attachments/assets/302f609e-a644-4c15-803d-b8c885b6e583" />
